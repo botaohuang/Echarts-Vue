@@ -1,29 +1,14 @@
-# echarts-vue
+# Echarts-Vue
 
-## Project setup
-```
-npm install
-```
+Echarts 正在向apache开源，跟着这个节奏来学习下Echarts在Vue中的使用。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+项目的目录结构说明:
+`static` 是静态的html文件,每一个都是一个独立的图标,可以单独执行
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+> 首先安装 echarts : cnpm install echarts --save
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. 环状图
+2. 面积图
+3. 柱状图
+4. 双轴图
